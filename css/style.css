@@ -25,3 +25,7 @@ p {
   font-size: 1.5rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
+
+img {
+  width: 20%;
+}
